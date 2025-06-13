@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "../cursoService"
+		},
+		{
+			"path": "../usuarioService"
+		},
+		{
+			"path": "../soporteService"
+		},
+		{
+			"path": "../notificacionesService"
+		}
+	],
+	"settings": {}
+}
