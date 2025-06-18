@@ -19,6 +19,13 @@
         <springdoc.version>2.1.0</springdoc.version>
     </properties>
 
+    <dependency>
+        <groupId>org.springframework.boot</groupId>
+        <artifactId>spring-boot-starter-hateoas</artifactId>
+        <version>${spring.boot.version}</version> <!-- Usa la misma versión que el Spring Boot -->
+    </dependency>
+
+
     <dependencies>
         <!-- Spring Boot -->
         <dependency>
